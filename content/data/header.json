@@ -251,7 +251,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Other",
             "altText": "Dropdown",
             "links": [
                 {
