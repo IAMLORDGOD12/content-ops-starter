@@ -299,7 +299,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pr-0"
+                "pr-0",
+                "pt-0",
+                "pl-0",
+                "pb-0"
             ]
         }
     }
