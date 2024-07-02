@@ -308,7 +308,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pr-1"
+                "pr-0"
             ]
         }
     }
